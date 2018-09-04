@@ -2,4 +2,9 @@ hi to all
 vinod
 kumar
 innamuri
+<<<<<<< HEAD
 modify file in master branch 
+=======
+iam working in merge create,delete
+two developers working with same file using merge  
+>>>>>>> merge
